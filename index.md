@@ -9,6 +9,6 @@ Created by
 
 ## Introduction
 
-{% include web_embed.html %}
+{% include embed_sample.html %}
 
 [Return to Top](#about)
